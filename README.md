@@ -7,9 +7,12 @@
 
 - 🔭 I’m currently working on [Lavander](https://github.com/HinganuLarisa/Lavander)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript**
+
+- ⚡ Next step **React**
 
 - 📫 How to reach me **larisa.vieru27@yahoo.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
