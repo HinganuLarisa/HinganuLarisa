@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hinganu Larisa</h1>
-<h3 align="center">I am a junior front-end developer.</h3>
+<h3 align="center" style="color: #9e772f">I am a junior front-end developer.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
